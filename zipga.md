@@ -6,7 +6,13 @@
 > 이제 퇴근시간은 잊어버리세요. 지금부터 '집家'가 알려드립니다.  
 
 <p align="right">
-<img src="./img/logo.png" height="60" alt="logo iOS">
+    <img src="./img/logo.png" height="60" alt="App Logo" align="left">
+    <a href="https://github.com/clyksb0731/TimeToGoHome">
+        <img src="./img/github.png" height="60" alt="GitHub">
+    </a>
+    <a href="https://apps.apple.com/kr/app/집가/id1546550497">
+        <img src="./img/appStore.png" height="60" alt="App Store">
+    </a>
 </p>
 
 ## 지원 연락처
