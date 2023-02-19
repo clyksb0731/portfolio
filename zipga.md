@@ -1,6 +1,6 @@
 # 집家
 
-![scrennshot](./img/iPhoneAndBaseView.png)
+![scrennshot](./img/iPhone14Pro.png)
 > 열심히 일한 당신, 이제는 퇴근 할 때!  
 > 무의미한 업무 연장은 이제 그만! 집중적으로 일하고 신나게 퇴근하자!  
 > 이제 퇴근시간은 잊어버리세요. 지금부터 '집家'가 알려드립니다.  
