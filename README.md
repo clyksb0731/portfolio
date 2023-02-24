@@ -54,6 +54,7 @@ Yongseok Choi ⎯ Portfolio
     </p>
 </p>
 
+<br>
 <hr style="height:0.5px">
 
 <p style = "text-align:left;font-size:2em;font-weight:bold">
