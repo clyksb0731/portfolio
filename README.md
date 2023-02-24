@@ -79,7 +79,7 @@ Yongseok Choi ⎯ Portfolio
 1) Smart TBM (포스코)
 </p>
 <p style = "text-align:left;font-size:1em;font-weight:bold">
-2) 쪼끼 매너저 앱 (포스코)
+2) 쪼끼 매니저 앱 (포스코)
 </p>
 
 <p style = "text-align:center;font-size:1.5em;font-weight:bold">
