@@ -77,9 +77,7 @@ Contact
 1. SmartSee Cloud
 </p>
 
-<img src="./img/smartsee_cloud_screenshot.png">
-<br>
-
+![Screenshot](./img/smartsee_cloud_screenshot.png)
 > SMARTSEE CLOUD는 중대재해처벌법 대응을 위한 기업의 안전조치 강화 솔루션으로 산업재해 없는 안전한 사회 구현을 목표로 합니다.  
 > 현장 근로자의 셀프 안전수칙 준수관리, 위험 알림, 구조요청등 다양한 최신 기술을 적용하여 CCTV 모니터링에 의존하던 기존 산업 안전 모니터링의 한계점을 개선한 산업안전 통합 관리 플랫폼입니다.
 <br>
@@ -88,7 +86,6 @@ Contact
 <p style="margin-left:16px">
     <img src="./img/Smartsee_Cloud_Icon.png" height="60" alt="App Icon">
 </p>
-<br>
 
 **# 앱 설명**
 - 비대면 원격 현장 지원 (영상 통화)
@@ -96,13 +93,11 @@ Contact
 - 작업자 위험 감지 및 구조요청
 - 위치 정보 및 구역별 안전수칙 관리
 - App Store 배포
-<br>
 
 **# 개발 정보**
 - 개발언어: Objective-C
 - 개발스택: UIKit, Storyboard, AutoLayout, CallKit, PushKit, Remote Push, AFNetworking, RESTful API, iBeacon, Rabbit MQ
 - 소스관리: Git, Bitbucket
-<br>
 
 <div style="float:right">
     <a href="https://apps.apple.com/kr/app/smartsee-cloud/id1368906221">
