@@ -124,8 +124,8 @@ Contact
 
 **# 앱 아이콘**  
 <p style="margin-left:16px">
-    <img src="./img/SALS_Icon.png" height="60" alt="App Icon">
-</p>
+    <img src="./img/SALS_Icon.png" height="60" alt="App Icon" />
+</p>  
 
 **# 앱 설명**
 - 의료지도 요청 수락
