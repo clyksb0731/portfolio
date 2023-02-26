@@ -1,11 +1,11 @@
 <p style = "text-align:center;font-size:3em;font-weight:bold">
 Yongseok Choi ⎯ Portfolio
 </p>
-<br>
+<br />
 <div style="display:flex;width:100%">
     <div style="box-sizing:border-box;float:left;width:50%;border-right:4px solid gray;padding:16px">
         <p style="text-align:center">
-            <img src="./img/in_europe.png" style="width:50%">
+            <img src="./img/in_europe.png" style="width:50%" />
         </p>
         <p style="text-align:center;font-size:0.9em">
             exciting Swift, excited iOS developer.
@@ -18,7 +18,7 @@ Yongseok Choi ⎯ Portfolio
     <div style="box-sizing:border-box;float:right;width:50%;padding:16px">
         <a href="#careers">Careers</a><br>
         <ul>
-            <li> 2019. 10 ~ 재직 중 | <b>비앤피이노베이션</b>
+            <li>2019. 10 ~ 재직 중 | <b>비앤피이노베이션</b>
                 <ul style="list-style:none;padding-left:0px;padding-bottom:16px">
                     <li>1. SmartSee Cloud</li>
                     <li>2. 스마트 의료지도</li>
@@ -31,7 +31,7 @@ Yongseok Choi ⎯ Portfolio
                     </li>
                 </ul>
             </li>
-            <li> 2018. 10 ~ 2019. 9 | <b>와임</b>
+            <li>2018. 10 ~ 2019. 9 | <b>와임</b>
                 <ul style="list-style:none;padding-left:0px">
                     <li>1. MeDNA Record</li>
                     <li>2. Tcurity</li>
@@ -50,7 +50,7 @@ Yongseok Choi ⎯ Portfolio
         </ol>
     </div>
 </div>
-<br/><br/>
+<br /><br />
 
 <p style = "text-align:left;font-size:1.5em;font-weight:bold">
 기술 스택
@@ -65,7 +65,7 @@ Contact
 > Mobile: 010-4207-3122  
 > E-mail: clyksb0731@gmail.com
 
-<hr/>
+<hr />
 
 <p style = "text-align:left;font-size:2em;font-weight:bold">
 <a id="careers">- Careers</a>
@@ -75,43 +75,49 @@ Contact
 2019. 10 ~ 재직 중 @ 비앤피이노베이션 | iOS 앱 개발
 <p style = "text-align:left;font-size:1.5em">
 1. SmartSee Cloud
-<img src="./img/smartsee_cloud_screenshot.png">
+<img src="./img/smartsee_cloud_screenshot.png" />
 </p>  
 
-> SMARTSEE CLOUD는 중대재해처벌법 대응을 위한 기업의 안전조치 강화 솔루션으로 산업재해 없는 안전한 사회 구현을 목표로 합니다.  
-> 현장 근로자의 셀프 안전수칙 준수관리, 위험 알림, 구조요청등 다양한 최신 기술을 적용하여 CCTV 모니터링에 의존하던 기존 산업 안전 모니터링의 한계점을 개선한 산업안전 통합 관리 플랫폼입니다.
+<blockquote>
+    <p>SMARTSEE CLOUD는 중대재해처벌법 대응을 위한 기업의 안전조치 강화 솔루션으로 산업재해 없는 안전한 사회 구현을 목표로 합니다.<br />
+    현장 근로자의 셀프 안전수칙 준수관리, 위험 알림, 구조요청등 다양한 최신 기술을 적용하여 CCTV 모니터링에 의존하던 기존 산업 안전 모니터링의 한계점을 개선한 산업안전 통합 관리 플랫폼입니다.</p>
+</blockquote>
 
-**# 앱 아이콘**  
+<b># 앱 아이콘</b>
 <p style="margin-left:16px">
-    <img src="./img/Smartsee_Cloud_Icon.png" height="60" alt="App Icon">
-</p>
+    <img src="./img/Smartsee_Cloud_Icon.png" height="60" alt="App Icon" />
+</p>  
 
-**# 앱 설명**
-- 비대면 원격 현장 지원 (영상 통화)
-- 현장 영상 저장 관리
-- 작업자 위험 감지 및 구조요청
-- 위치 정보 및 구역별 안전수칙 관리
-- App Store 배포
+<b># 앱 설명</b>
+<ul>
+    <li>비대면 원격 현장 지원 (영상 통화)</li>
+    <li>현장 영상 저장 관리</li>
+    <li>작업자 위험 감지 및 구조요청</li>
+    <li>위치 정보 및 구역별 안전수칙 관리</li>
+    <li>App Store 배포</li>
+</ul> 
 
-**# 개발 정보**
-- 개발언어: Objective-C
-- 개발스택: UIKit, Storyboard, AutoLayout, CallKit, PushKit, Remote Push, AFNetworking, RESTful API, iBeacon, Rabbit MQ
-- 소스관리: Git, Bitbucket
+<b># 개발 정보</b>
+<ul>
+    <li>개발언어: Objective-C</li>
+    <li>개발스택: UIKit, Storyboard, AutoLayout, CallKit, PushKit, Remote Push, AFNetworking, RESTful API, iBeacon, Rabbit MQ</li>
+    <li>소스관리: Git, Bitbucket</li>
+</ul>
 
 <div style="float:right">
     <a href="https://apps.apple.com/kr/app/smartsee-cloud/id1368906221">
-        <img src="./img/appStore.png" height="60" alt="App Store">
+        <img src="./img/appStore.png" height="60" alt="App Store" />
     </a>
 </div>
-<br><br>
+<br /><br />
 
-<hr style="height:0.5px">
+<hr style="height:0.5px" />
 
 <p style = "text-align:left;font-size:1.5em">
 2. 스마트 의료지도
 </p>
 
-<img src="./img/sals_screenshot.png">
+<img src="./img/sals_screenshot.png" />
 
 > 스마트의료지도는 심정지환자를 대상으로 하는 스마트의료지도 사업을 위한 어플리케이션 입니다.  
 > 스마트의료지도는 심정지환자 발생 시 119구급대가 출동하면 응급의료센터 의사가 직접 영상으로 구급대를 지도하고, 이에 따라 구급대원이 적극적인 의학적 처치를 실시하여 응급환자의 생존율 향상을 목적으로 시행 중인 사업으로, 지정된 사업지역에서만 제한적으로 사용이 가능합니다.
