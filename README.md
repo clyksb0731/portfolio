@@ -75,9 +75,8 @@ Contact
 2019. 10 ~ 재직 중 @ 비앤피이노베이션 | iOS 앱 개발
 <p style = "text-align:left;font-size:1.5em">
 1. SmartSee Cloud
-</p>
-
 <img src="./img/smartsee_cloud_screenshot.png">
+</p>  
 
 > SMARTSEE CLOUD는 중대재해처벌법 대응을 위한 기업의 안전조치 강화 솔루션으로 산업재해 없는 안전한 사회 구현을 목표로 합니다.  
 > 현장 근로자의 셀프 안전수칙 준수관리, 위험 알림, 구조요청등 다양한 최신 기술을 적용하여 CCTV 모니터링에 의존하던 기존 산업 안전 모니터링의 한계점을 개선한 산업안전 통합 관리 플랫폼입니다.
