@@ -5,14 +5,14 @@ Yongseok Choi ⎯ Portfolio
 <div style="display:flex;width:100%">
     <div style="box-sizing:border-box;float:left;width:50%;border-right:4px solid gray;padding:16px">
         <p style="text-align:center">
-        <img src="./img/in_europe.png" style="width:50%">
+            <img src="./img/in_europe.png" style="width:50%">
         </p>
         <p style="text-align:center;font-size:0.9em">
-        exciting Swift, excited iOS developer.
+            exciting Swift, excited iOS developer.
         </p>
         <p style="text-align:center;font-size:1.2em">
-        커리어 전환을 통해 끝내 꿈을 이루어<br>
-        신나게 개발하고 있는 iOS 앱 개발자 <b>최용석</b>입니다.
+            커리어 전환을 통해 끝내 꿈을 이루어<br>
+            신나게 개발하고 있는 iOS 앱 개발자 <b>최용석</b>입니다.
         </p>
     </div>
     <div style="box-sizing:border-box;float:right;width:50%;padding:16px">
