@@ -119,7 +119,7 @@ Yongseok Choi ⎯ Portfolio
         <img src="./img/youtubeIcon.png" height="60" alt="GitHub" style="margin-right:8px">
     </a>
     <a href="https://github.com/OhTeam/My_Small_Trip">
-        <img src="./img/github.png" height="60" alt="GitHub" style="margin-right:8px">
+        <img src="./img/githubIcon.png" height="60" alt="GitHub" style="margin-right:8px">
     </a>
 </div>
 <br><br>
