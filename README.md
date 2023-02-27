@@ -91,7 +91,7 @@ Yongseok Choi ⎯ Portfolio
 
 <b># 앱 아이콘</b>
 <p style="padding-left:16px">
-    <img src="./img/Smartsee_Cloud_Icon.png" height="60" alt="App Icon" />
+    <img src="./img/smartsee_cloud_icon.png" height="60" alt="App Icon" />
 </p>  
 
 <b># 앱 설명</b>
@@ -133,7 +133,7 @@ Yongseok Choi ⎯ Portfolio
 
 <b># 앱 아이콘</b>
 <p style="padding-left:16px">
-    <img src="./img/SALS_Icon.png" height="60" alt="App Icon" />
+    <img src="./img/sals_icon.png" height="60" alt="App Icon" />
 </p>  
 
 <b># 앱 설명</b>
@@ -176,7 +176,7 @@ Yongseok Choi ⎯ Portfolio
 
 <b># 앱 아이콘</b>
 <p style="padding-left:16px">
-    <img src="./img/RECS_Icon.png" height="60" alt="App Icon" />
+    <img src="./img/recs_icon.png" height="60" alt="App Icon" />
 </p>
 
 <b># 앱 설명</b>
@@ -236,7 +236,7 @@ Yongseok Choi ⎯ Portfolio
 
 <b># 앱 아이콘</b>
 <p style="margin-left:16px">
-    <img src="./img/MeDNA_Icon.png" height="60" alt="App Icon" />
+    <img src="./img/medna_icon.png" height="60" alt="App Icon" />
 </p>
 
 <b># 앱 설명</b>
@@ -298,7 +298,7 @@ Yongseok Choi ⎯ Portfolio
 
 <b># 앱 아이콘</b>
 <p style="margin-left:16px">
-    <img src="./img/LiveCert_Icon.png" height="60" alt="App Icon" />
+    <img src="./img/livecert_icon.png" height="60" alt="App Icon" />
 </p>
 
 <b># 앱 설명</b>
@@ -347,7 +347,7 @@ Yongseok Choi ⎯ Portfolio
 
 <b># 앱 아이콘</b>
 <p style="margin-left:16px">
-    <img src="./img/Zipga_Icon.png" height="60" alt="App Icon" />
+    <img src="./img/zipga_icon.png" height="60" alt="App Icon" />
 </p>
 
 <b># 앱 설명</b>
@@ -374,10 +374,10 @@ Yongseok Choi ⎯ Portfolio
 
 <div style="float:right">
     <a href="https://github.com/clyksb0731/TimeToGoHome">
-        <img src="./img/Youtube_Icon.png" height="60" alt="Youtube" style="padding-right:8px" />
+        <img src="./img/youtube_icon.png" height="60" alt="Youtube" style="padding-right:8px" />
     </a>
     <a href="https://github.com/clyksb0731/TimeToGoHome">
-        <img src="./img/Github_Icon.png" height="60" alt="GitHub" style="padding-right:8px" />
+        <img src="./img/github_icon.png" height="60" alt="GitHub" style="padding-right:8px" />
     </a>
     <a href="https://apps.apple.com/kr/app/집가/id1546550497">
         <img src="./img/appStore.png" height="60" alt="App Store" />
@@ -415,10 +415,10 @@ Yongseok Choi ⎯ Portfolio
 
 <div style="display:inline-block;float:right">
     <a href="https://www.youtube.com/watch?v=xA2IJ0NWzoo&t=8s">
-        <img src="./img/Youtube_Icon.png" height="60" alt="Youtube" style="padding-right:8px" />
+        <img src="./img/youtube_icon.png" height="60" alt="Youtube" style="padding-right:8px" />
     </a>
     <a href="https://github.com/OhTeam/My_Small_Trip">
-        <img src="./img/Github_Icon.png" height="60" alt="GitHub" style="padding-right:8px" />
+        <img src="./img/github_icon.png" height="60" alt="GitHub" style="padding-right:8px" />
     </a>
 </div>
 <br /><br />
