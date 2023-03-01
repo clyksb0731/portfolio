@@ -1,4 +1,56 @@
-<p style="font-size:2em;font-weight:bold">
+<style>
+    #clyksb_zipga_title {
+        text-align:left;
+        font-size:1.5em;
+        font-weight:bold;
+    }
+
+    .clyksb_zipga_subTitle {
+        text-align:left;
+        font-size:1.3em;
+        font-weight:bold;
+    }
+
+    .clyksb_zipga_subSubTitle {
+        text-align:left;
+        font-size:1em;
+        font-weight:bold;
+    }
+
+    .clyksb_zipga_list {
+        text-align:left;
+        font-size:0.8em;
+        font-weight:bold;
+    }
+
+    @media (min-width:480px) {
+        #clyksb_zipga_title {
+            text-align:left;
+            font-size:2em;
+            font-weight:bold;
+        }
+
+        .clyksb_zipga_subTitle {
+            text-align:left;
+            font-size:1.5em;
+            font-weight:bold;
+        }
+
+        .clyksb_zipga_subSubTitle {
+            text-align:left;
+            font-size:1.3em;
+            font-weight:bold;
+        }
+
+        .clyksb_zipga_list {
+            text-align:left;
+            font-size:1.1em;
+            font-weight:bold;
+        }
+    }
+</style>
+
+<p id="clyksb_zipga_title">
     집家
     <hr style="height:0.5px" />
     <img src="./img/iPhone14Pro.png" />
@@ -25,7 +77,7 @@
 </div>
 <br />
 
-<p style="font-size:1.5em;font-weight:bold">
+<p class="clyksb_zipga_subTitle">
     지원 연락처
     <blockquote>
     Email: clyksb0731@gmail.com
@@ -34,14 +86,39 @@
 
 <hr style="height:0.5px" />
 
-<p style="font-size:1.5em;font-weight:bold">
+<p class="clyksb_zipga_subTitle">
     1. 앱 초기 설정
     <img src="./img/app_initial_setting.png" />
     # 설정 방법
 </p>
-<ol style="font-size:1.1em;font-weight:bold">
+<ol class="clyksb_zipga_list">
     <li>우선 회사 이름과 입사 날짜가 필요해요.</li>
     <li>직장 위치를 지정하세요. 회사 이름뿐만 아니라 주소로도 찾을 수 있어요. 물론 다음에 설정할 수도 있고요.</li>
     <li>출퇴근 형태를 선택하세요. 시차출퇴근형이나 일반적으로 정해진 출퇴근시간 형태로도 선택할 수 있어요. 점심시간을 지정할 수 있고 반차 때 배제하도록 설정할 수도 있어요.</li>
     <li>마지막으로 휴무일을 지정하세요. 일요일과 토욜일같은 정기 휴일을 지정할 수 있어요. 연차휴가도 미리 설정 할 수 있고요. 자 이제 설정을 모두 마치고 시작버튼을 누르면 앱의 주 기능을 담당하는 메인화면으로 넘어갈 거예요.</li>
+</ol>
+
+<p class="clyksb_zipga_subTitle">
+    2. 앱 메인
+</p>
+
+<p class="clyksb_zipga_subSubTitle">
+    - 초기 화면
+    <img src="./img/app_main.png" />
+    # 뷰 설명
+</p>
+<ol class="clyksb_zipga_list">
+    <li>평일 메인 화면이예요. 평일엔 오전 오후 모두 근무 시간으로 되어있어요. 필요할 땐 추가 근무를 추가 할 수 있어요.</li>
+    <li>휴가에는 오전 오후 휴가로 표시돼요. 물론 반차의 경우도 있는데 밑에서 다룰게요.</li>
+    <li>휴일도 마찬가지예요. 오전 오후 모두 휴일로 되어있고 반나절만 휴일일 수도 있는데 역시 밑에서 다룰거예요.</li>
+</ol>
+<p class="clyksb_zipga_subSubTitle">
+    - 현황 뷰 in 메인 화면
+    <img src="./img/app_main_normal.png" />
+    # 뷰 설명
+</p>
+<ol class="clyksb_zipga_list">
+    <li>메인화면의 검은 뷰 부분을 설명할 거예요. 이 부분을 이제 현황 뷰라고 부를게요. 우선 첫 번째 뷰의 현황뷰는 오늘 하루 남은 근무 시간을 의미해요.</li>
+    <li>두 번째 뷰의 현황 뷰는 현재까지 진행된 오늘 근무 시간을 의미하고요.</li>
+    <li>그리고 마지막 뷰의 현황 뷰는 오늘 총 근무 시간 중 현재까지 진행된 비율을 의미해요.</li>
 </ol>
