@@ -150,6 +150,7 @@ Yongseok Choi ⎯ Portfolio
 
 <blockquote>
     <p>
+        GitHub: clyksb0731<br />
         Mobile: 010-4207-3122<br />
         E-mail: clyksb0731@gmail.com
     </p>
