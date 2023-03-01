@@ -1,9 +1,46 @@
+<style>
+    #clyksb_portfolio_profileCareer {
+        width:auto;
+    }
+
+    #clyksb_portfolio_profile {
+        float:none;
+        width:auto;
+    }
+
+    #clyksb_portfolio_career {
+        float:none;
+        width:auto;
+    }
+
+    @media (min-width:480px) {
+        #clyksb_portfolio_profileCareer {
+            display:flex;
+        }
+
+        #clyksb_portfolio_profile {
+            box-sizing:border-box;
+            float:left;
+            width:50%;
+            border-right:4px solid gray;
+            padding:16px;
+        }
+
+        #clyksb_portfolio_career {
+            box-sizing:border-box;
+            float:right;
+            width:50%;
+            padding:16px;
+        }
+    }
+</style>
+
 <p style = "text-align:center;font-size:3em;font-weight:bold">
 Yongseok Choi ⎯ Portfolio
 </p>
 <br />
-<div style="display:flex;width:100%">
-    <div style="box-sizing:border-box;float:left;width:50%;border-right:4px solid gray;padding:16px">
+<div id="clyksb_portfolio_profileCareer">
+    <div id="clyksb_portfolio_profile">
         <p style="text-align:center">
             <img src="./img/in_europe.png" style="width:50%" />
         </p>
@@ -15,7 +52,7 @@ Yongseok Choi ⎯ Portfolio
             신나게 개발하고 있는 iOS 앱 개발자 <b>최용석</b>입니다.
         </p>
     </div>
-    <div style="box-sizing:border-box;float:right;width:50%;padding:16px">
+    <div id="clyksb_portfolio_career">
         <a href="#careers">Careers</a><br>
         <ul>
             <li>2019. 10 ~ 재직 중 | <b>비앤피이노베이션</b>
