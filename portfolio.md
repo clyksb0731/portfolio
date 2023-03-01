@@ -4,17 +4,22 @@
     }
 
     #clyksb_portfolio_profile {
+        box-sizing:border-box;
         float:none;
         width:auto;
-    }
-
-    .clyksb_portfolio_careerLink {
-        text-align:center
+        padding:16px;
+        border-bottom:2px solid gray;
+        border-right:0px;
     }
 
     #clyksb_portfolio_career {
         float:none;
         width:auto;
+        padding:16px;
+    }
+
+    .clyksb_portfolio_careerLink {
+        text-align:center
     }
 
     #clyksb_portfolio_title {
@@ -45,11 +50,8 @@
             float:left;
             width:50%;
             border-right:4px solid gray;
+            border-bottom:0px;
             padding:16px;
-        }
-
-        .clyksb_portfolio_careerLink {
-            text-align:left
         }
 
         #clyksb_portfolio_career {
@@ -57,6 +59,10 @@
             float:right;
             width:50%;
             padding:16px;
+        }
+
+        .clyksb_portfolio_careerLink {
+            text-align:left
         }
 
         #clyksb_portfolio_title {
@@ -101,7 +107,7 @@ Yongseok Choi ⎯ Portfolio
             <a href="#careers">Careers</a><br>
         </p>
         <ul>
-            <li>2019. 10 ~ 재직 중 | <b>비앤피이노베이션</b>
+            <li><b>2019. 10 ~ 재직 중</b> | 비앤피이노베이션
                 <ul style="list-style:none;padding-left:0px;padding-bottom:16px">
                     <li>1. SmartSee Cloud</li>
                     <li>2. 스마트 의료지도</li>
@@ -114,7 +120,7 @@ Yongseok Choi ⎯ Portfolio
                     </li>
                 </ul>
             </li>
-            <li>2018. 10 ~ 2019. 9 | <b>와임</b>
+            <li><b>2018. 10 ~ 2019. 9</b> | 와임
                 <ul style="list-style:none;padding-left:0px">
                     <li>1. MeDNA Record</li>
                     <li>2. Tcurity</li>
@@ -125,13 +131,12 @@ Yongseok Choi ⎯ Portfolio
         <p class="clyksb_portfolio_careerLink">
             <a href="#personal_projects">Personal Projects</a>
         </p>
-        <ol>
+        <ul>
             <li>집家 (집가)</li>
             <li>마이스몰트립</li>
-        </ol>
+        </ul>
     </div>
 </div>
-<br /><br />
 
 <p class="clyksb_portfolio_subSubTitle">
     기술 스택
