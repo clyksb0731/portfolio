@@ -32,7 +32,7 @@
     </blockquote>
 </p>
 
-<hr />
+<hr style="height:0.5px" />
 
 <p style="font-size:1.5em;font-weight:bold">
     1. 앱 초기 설정
