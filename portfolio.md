@@ -8,9 +8,31 @@
         width:auto;
     }
 
+    .clyksb_portfolio_careerLink {
+        text-align:center
+    }
+
     #clyksb_portfolio_career {
         float:none;
         width:auto;
+    }
+
+    #clyksb_portfolio_title {
+        text-align:center;
+        font-size:1.7em;
+        font-weight:bold;
+    }
+
+    .clyksb_portfolio_subTitle {
+        text-align:left;
+        font-size:1.5em;
+        font-weight:bold;
+    }
+
+    .clyksb_portfolio_subSubTitle {
+        text-align:left;
+        font-size:1.2em;
+        font-weight:bold;
     }
 
     @media (min-width:480px) {
@@ -26,16 +48,38 @@
             padding:16px;
         }
 
+        .clyksb_portfolio_careerLink {
+            text-align:left
+        }
+
         #clyksb_portfolio_career {
             box-sizing:border-box;
             float:right;
             width:50%;
             padding:16px;
         }
+
+        #clyksb_portfolio_title {
+            text-align:center;
+            font-size:3em;
+            font-weight:bold;
+        }
+
+        .clyksb_portfolio_subTitle {
+            text-align:left;
+            font-size:2em;
+            font-weight:bold;
+        }
+
+        .clyksb_portfolio_subSubTitle {
+            text-align:left;
+            font-size:1.5em;
+            font-weight:bold;
+        }
     }
 </style>
 
-<p style = "text-align:center;font-size:3em;font-weight:bold">
+<p id="clyksb_portfolio_title">
 Yongseok Choi ⎯ Portfolio
 </p>
 <br />
@@ -53,7 +97,9 @@ Yongseok Choi ⎯ Portfolio
         </p>
     </div>
     <div id="clyksb_portfolio_career">
-        <a href="#careers">Careers</a><br>
+        <p class="clyksb_portfolio_careerLink">
+            <a href="#careers">Careers</a><br>
+        </p>
         <ul>
             <li>2019. 10 ~ 재직 중 | <b>비앤피이노베이션</b>
                 <ul style="list-style:none;padding-left:0px;padding-bottom:16px">
@@ -76,26 +122,24 @@ Yongseok Choi ⎯ Portfolio
                 </ul>
             </li>
         </ul>
-        <a href="#personal_projects">Personal Projects</a>
+        <p class="clyksb_portfolio_careerLink">
+            <a href="#personal_projects">Personal Projects</a>
+        </p>
         <ol>
             <li>집家 (집가)</li>
             <li>마이스몰트립</li>
-        </ol>
-        <a href="#etc">기타</a>
-        <ol>
-            <li></li>
         </ol>
     </div>
 </div>
 <br /><br />
 
-<p style = "text-align:left;font-size:1.5em;font-weight:bold">
+<p class="clyksb_portfolio_subSubTitle">
     기술 스택
 </p>
 
 <code>Swift</code> <code>Objective-C</code> <code>UIKit</code> <code>Storyboard</code> <code>AutoLayout</code> <code>Realm</code> <code>CallKit</code> <code>PushKit</code> <code>Remote Push</code> <code>Alamofire</code> <code>AFNetworking</code> <code>RESTFult API</code> <code>iBeacon</code> <code>BLE</code> <code>Rabbit MQ</code> <code>Git</code> <code>Github</code> <code>Bitbucket</code>
 
-<p style = "text-align:left;font-size:1.5em;font-weight:bold">
+<p class="clyksb_portfolio_subSubTitle">
     Contact
 </p>
 
@@ -108,13 +152,14 @@ Yongseok Choi ⎯ Portfolio
 
 <hr />
 
-<p style = "text-align:left;font-size:2em;font-weight:bold">
+<p class="clyksb_portfolio_subTitle">
     <a id="careers">- Careers</a>
 </p>
 
-<p style = "text-align:left;font-size:1.5em;font-weight:bold">
-    2019. 10 ~ 재직 중 @ 비앤피이노베이션&nbsp; |&nbsp; iOS 앱 개발
-<p style = "text-align:left;font-size:1.5em">
+<p class="clyksb_portfolio_subSubTitle">
+    2019. 10 ~ 재직 중<br />
+    @ 비앤피이노베이션&nbsp; |&nbsp; iOS 앱 개발
+<p class="clyksb_portfolio_subSubTitle">
     1. SmartSee Cloud<br />
     <img src="./img/smartsee_cloud_screenshot.png" />
 </p>  
@@ -156,7 +201,7 @@ Yongseok Choi ⎯ Portfolio
 
 <hr style="height:0.5px" />
 
-<p style = "text-align:left;font-size:1.5em">
+<p class="clyksb_portfolio_subSubTitle">
     2. 스마트 의료지도<br />
     <img src="./img/sals_screenshot.png" />
 </p>
@@ -200,7 +245,7 @@ Yongseok Choi ⎯ Portfolio
 
 <hr style="height:0.5px" />
 
-<p style = "text-align:left;font-size:1.5em">
+<p class="clyksb_portfolio_subSubTitle">
     3. 응급전원협진망<br />
     <img src="./img/recs_screenshot.png" />
 </p>
@@ -243,7 +288,7 @@ Yongseok Choi ⎯ Portfolio
 
 <hr style="height:0.5px" />
 
-<p style = "text-align:left;font-size:1.5em">
+<p class="clyksb_portfolio_subSubTitle">
     4. In-House 배포 앱
 </p>
 <p style = "text-align:left;font-size:1em">
@@ -255,11 +300,12 @@ Yongseok Choi ⎯ Portfolio
 
 <hr />
 
-<p style = "text-align:left;font-size:1.5em;font-weight:bold">
-    2018. 10 ~ 2019. 9 @ 와임&nbsp; |&nbsp; iOS 앱 개발
+<p class="clyksb_portfolio_subSubTitle">
+    2018. 10 ~ 2019. 9<br />
+    @ 와임&nbsp; |&nbsp; iOS 앱 개발
 </p>
 
-<p style = "text-align:left;font-size:1.5em">
+<p class="clyksb_portfolio_subSubTitle">
     1. MeDNA Record<br />
     <img src="./img/medna_screenshot.png" />
 </p>
@@ -286,7 +332,7 @@ Yongseok Choi ⎯ Portfolio
 <b># 개발 정보</b>
 <ul>
     <li>개발언어: Swift</li>
-    <li>개발스택: UIKit, Storyboard, AutoLayout, Alamofire, RESTful API, Remote Push</li>
+    <li>개발스택: UIKit, Storyboard, AutoLayout, Realm, Alamofire, RESTful API, Remote Push</li>
     <li>소스관리: SVN</li>
 </ul>
 
@@ -299,9 +345,9 @@ Yongseok Choi ⎯ Portfolio
 
 <hr style="height:0.5px" />
 
-<p style = "text-align:left;font-size:1.5em">
+<p class="clyksb_portfolio_subSubTitle">
     2. Tcurity<br />
-    <img src="./img/tcurity_screenshot.png" />
+    <img src="./img/tcurity_screenshot.png" style="width:50%" />
 </p>
 
 <blockquote>
@@ -322,13 +368,13 @@ Yongseok Choi ⎯ Portfolio
 <b># 개발 정보</b>
 <ul>
     <li>개발언어: Swift</li>
-    <li>개발스택: UIKit, Storyboard, AutoLayout, Alamofire, RESTful API, Remote Push</li>
+    <li>개발스택: UIKit, Storyboard, AutoLayout, Realm, Alamofire, RESTful API, Remote Push</li>
     <li>소스관리: SVN</li>
 </ul>
 
 <hr style="height:0.5px" />
 
-<p style = "text-align:left;font-size:1.5em">
+<p class="clyksb_portfolio_subSubTitle">
     3. LiveCert<br />
     <img src="./img/livecert_screenshot.png" />
 </p>
@@ -352,7 +398,7 @@ Yongseok Choi ⎯ Portfolio
 <b># 개발 정보</b>
 <ul>
     <li>개발언어: Swift</li>
-    <li>개발스택: UIKit, Storyboard, AutoLayout, Alamofire, RESTful API, Remote Push</li>
+    <li>개발스택: UIKit, Storyboard, AutoLayout, Realm, Alamofire, RESTful API, Remote Push</li>
     <li>소스관리: SVN</li>
 </ul>
 
@@ -365,11 +411,11 @@ Yongseok Choi ⎯ Portfolio
 
 <hr />
 
-<p style = "text-align:left;font-size:2em;font-weight:bold">
+<p class="clyksb_portfolio_subTitle">
     <a id="personal_projects">- Personal Projects</a>
 </p>
 
-<p style = "text-align:left;font-size:1.5em;font-weight:bold">
+<p class="clyksb_portfolio_subSubTitle">
     1. 집家 (집가)<br />
     <img src="./img/iPhone14Pro.png" />
 </p>
@@ -424,7 +470,7 @@ Yongseok Choi ⎯ Portfolio
 
 <hr style="height:0.5px" />
 
-<p style = "text-align:left;font-size:1.5em;font-weight: bold">
+<p class="clyksb_portfolio_subSubTitle">
     2. 마이스몰트립<br />
     <img src="./img/mysmalltrip.png" style="width:70%" />
 </p>
@@ -461,11 +507,3 @@ Yongseok Choi ⎯ Portfolio
 <br /><br />
 
 <hr />
-
-<p style = "text-align:left;font-size:2em;font-weight:bold">
-    <a id="etc">- 기타</a>
-</p>
-
-<p style = "text-align:left;font-size:1.5em;font-weight: bold">
-    1.
-</p>
