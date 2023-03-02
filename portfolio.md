@@ -317,7 +317,7 @@ Yongseok Choi ⎯ Portfolio
 <b># 개발 정보</b>
 <ul>
     <li>개발언어: Swift</li>
-    <li>개발스택: UIKit, Storyboard, AutoLayout, Alamofire, RESTful API</li>
+    <li>개발스택: UIKit, AutoLayout, Alamofire, RESTful API</li>
     <li>소스관리: Git</li>
 </ul>
 
@@ -339,7 +339,7 @@ Yongseok Choi ⎯ Portfolio
 <b># 개발 정보</b>
 <ul>
     <li>개발언어: Swift</li>
-    <li>개발스택: UIKit, Storyboard, AutoLayout, Alamofire, RESTful API, BLE</li>
+    <li>개발스택: UIKit, AutoLayout, Alamofire, RESTful API, BLE</li>
     <li>소스관리: Git, Bitbucket</li>
 </ul>
 
