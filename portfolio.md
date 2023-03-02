@@ -297,12 +297,51 @@ Yongseok Choi ⎯ Portfolio
 <p class="clyksb_portfolio_subSubTitle">
     4. In-House 배포 앱
 </p>
-<p style = "text-align:left;font-size:1em">
-    1) Smart TBM (포스코)
+
+<p style = "text-align:left;font-size:1.1em;font-weight:bold">
+    A. Smart TBM (포스코)
 </p>
-<p style = "text-align:left;font-size:1em">
-    2) 쪼끼 매니저 앱 (포스코)
+<h4 style="color:red"><i>* 사내 배포 앱으로 공개된 이미지가 없습니다.</i></h4>
+<blockquote>
+    TBM(Tool Box Meeting)이란 안전한 작업환경 조성을 목표로 작업 전, 직원들이 작업 내용 및 설비에 대한 잠재적 위험요인을 사전에 발굴하고, 안전조치를 실시하는 활동을 의미합니다.
+</blockquote>
+
+<b># 앱 설명</b>
+<ul>
+    <li>작업 입력</li>
+    <li>작업 조회</li>
+    <li>작업자 확인 (녹음 및 사진전송)</li>
+    <li>In-House 배포</li>
+</ul> 
+
+<b># 개발 정보</b>
+<ul>
+    <li>개발언어: Swift</li>
+    <li>개발스택: UIKit, Storyboard, AutoLayout, Alamofire, RESTful API</li>
+    <li>소스관리: Git</li>
+</ul>
+
+<p style = "text-align:left;font-size:1.1em;font-weight:bold">
+    B. 쪼끼 매니저 앱 (포스코)
 </p>
+<h4 style="color:red"><i>* 사내 배포 앱으로 공개된 이미지가 없습니다.</i></h4>
+<blockquote>
+    안드로이드 시스템 기반인 스마트 안전조끼와 BLE로 통신하는 앱입니다. 스마트 안전조끼와 연결하여 통신수단 선택과 비디오 화질 변경 등 조끼 운영 설정을 변경할 수 있습니다.  
+</blockquote>
+
+<b># 앱 설명</b>
+<ul>
+    <li>안드로이드 조끼와 연결</li>
+    <li>BLE 메시지로 조끼 운영 설정 변경</li>
+    <li>In-House 배포</li>
+</ul> 
+
+<b># 개발 정보</b>
+<ul>
+    <li>개발언어: Swift</li>
+    <li>개발스택: UIKit, Storyboard, AutoLayout, Alamofire, RESTful API, BLE</li>
+    <li>소스관리: Git, Bitbucket</li>
+</ul>
 
 <hr />
 

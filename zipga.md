@@ -20,7 +20,7 @@
     .clyksb_zipga_list {
         text-align:left;
         font-size:0.8em;
-        font-weight:bold;
+        /* font-weight:bold; */
     }
 
     @media (min-width:480px) {
@@ -45,7 +45,7 @@
         .clyksb_zipga_list {
             text-align:left;
             font-size:1.1em;
-            font-weight:bold;
+            /* font-weight:bold; */
         }
     }
 </style>
@@ -96,7 +96,7 @@
     <li>직장 위치를 지정하세요. 회사 이름뿐만 아니라 주소로도 찾을 수 있어요. 물론 다음에 설정할 수도 있고요.</li>
     <li>출퇴근 형태를 선택하세요. 시차출퇴근형이나 일반적으로 정해진 출퇴근시간 형태로도 선택할 수 있어요. 점심시간을 지정할 수 있고 반차 때 배제하도록 설정할 수도 있어요.</li>
     <li>마지막으로 휴무일을 지정하세요. 일요일과 토욜일같은 정기 휴일을 지정할 수 있어요. 연차휴가도 미리 설정 할 수 있고요. 자 이제 설정을 모두 마치고 시작버튼을 누르면 앱의 주 기능을 담당하는 메인화면으로 넘어갈 거예요.</li>
-</ol>
+</ol><br />
 
 <p class="clyksb_zipga_subTitle">
     2. 앱 메인
@@ -111,7 +111,7 @@
     <li>평일 메인 화면이예요. 평일엔 오전 오후 모두 근무 시간으로 정해져요. 필요할 땐 추가 근무도 추가 할 수 있어요.</li>
     <li>휴가 때는 오전 오후 휴가로 정해져요. 물론 반차의 경우도 있는데 밑에서 다룰게요.</li>
     <li>휴일도 마찬가지예요. 기본적으로 오전 오후 모두 휴일로 정해지는데 반나절만 휴일인 경우엔 그렇게 설정할 수 있어요. 그 것 역시 밑에서 다룰게요.</li>
-</ol>
+</ol><br />
 <p class="clyksb_zipga_subSubTitle">
     - 현황 뷰 in 메인 화면
     <img src="./img/app_main_normal.png" />
