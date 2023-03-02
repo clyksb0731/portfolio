@@ -142,7 +142,7 @@ Yongseok Choi ⎯ Portfolio
     기술 스택
 </p>
 
-<code>Swift</code> <code>Objective-C</code> <code>UIKit</code> <code>Storyboard</code> <code>AutoLayout</code> <code>Realm</code> <code>CallKit</code> <code>PushKit</code> <code>Remote Push</code> <code>Alamofire</code> <code>AFNetworking</code> <code>RESTFult API</code> <code>iBeacon</code> <code>BLE</code> <code>Rabbit MQ</code> <code>Git</code> <code>Github</code> <code>Bitbucket</code>
+<code>Swift</code> <code>Objective-C</code> <code>UIKit</code> <code>Storyboard</code> <code>AutoLayout</code> <code>Realm</code> <code>CallKit</code> <code>PushKit</code> <code>Remote Push</code> <code>Alamofire</code> <code>AFNetworking</code> <code>Charts</code> <code>RESTFult API</code> <code>iBeacon</code> <code>BLE</code> <code>Rabbit MQ</code> <code>Git</code> <code>Github</code> <code>Bitbucket</code>
 
 <p class="clyksb_portfolio_subSubTitle">
     Contact
@@ -353,7 +353,7 @@ Yongseok Choi ⎯ Portfolio
 
 <p class="clyksb_portfolio_subSubTitle">
     2. Tcurity<br />
-    <img src="./img/tcurity_screenshot.png" style="width:50%" />
+    <img src="./img/tcurity_screenshot.png" style="height:400px" />
 </p>
 
 <blockquote>
@@ -450,7 +450,7 @@ Yongseok Choi ⎯ Portfolio
 <ul style="list-style:none">
     <li>
         <a href="https://clyksb0731.github.io/portfolio/zipga">
-            <b>앱 정보 더보기..</b>
+            <b>자세한 앱 설명 보기 〉〉</b>
         </a>
     </li>
 </ul><br />
