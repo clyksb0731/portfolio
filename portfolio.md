@@ -447,12 +447,13 @@ Yongseok Choi ⎯ Portfolio
     <li>경력도 관리해 줍니다.</li>
     <li>현재 App Store에 배포되어있습니다.</li>
 </ul>
-
-<p style="text-align:right">
-    <a href="https://clyksb0731.github.io/portfolio/zipga">
-        앱 정보 더보기..
-    </a>
-</p>
+<ul style="list-style:none">
+    <li>
+        <a href="https://clyksb0731.github.io/portfolio/zipga">
+            <b>앱 정보 더보기..</b>
+        </a>
+    </li>
+</ul><br />
 
 <b># 개발 정보</b>
 <ul>
