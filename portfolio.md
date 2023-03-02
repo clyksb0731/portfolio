@@ -194,7 +194,7 @@ Yongseok Choi ⎯ Portfolio
 <b># 개발 정보</b>
 <ul>
     <li>개발언어: Objective-C</li>
-    <li>개발스택: UIKit, Storyboard, AutoLayout, CallKit, PushKit, Remote Push, AFNetworking, RESTful API, iBeacon, Rabbit MQ</li>
+    <li>개발스택: UIKit, AutoLayout, Storyboard, CallKit, PushKit, Remote Push, AFNetworking, RESTful API, iBeacon, Rabbit MQ</li>
     <li>소스관리: Git, Bitbucket</li>
 </ul>
 
@@ -238,7 +238,7 @@ Yongseok Choi ⎯ Portfolio
 <b># 개발 정보</b>
 <ul>
     <li>개발언어: Objective-C</li>
-    <li>UIKit, Storyboard, AutoLayout, AFNetworking, RESTful API, CallKit, PushKit, Remote Push</li>
+    <li>UIKit, AutoLayout, Storyboard, AFNetworking, RESTful API, CallKit, PushKit, Remote Push</li>
     <li>Git, Bitbucket</li>
 </ul> 
 
@@ -281,7 +281,7 @@ Yongseok Choi ⎯ Portfolio
 <b># 개발 정보</b>
 <ul>
     <li>개발언어: Objective-C</li>
-    <li>UIKit, Storyboard, AutoLayout, AFNetworking, RESTful API, Remote Push</li>
+    <li>UIKit, AutoLayout, Storyboard, AFNetworking, RESTful API, Remote Push</li>
     <li>Git, Bitbucket</li>
 </ul>
 
@@ -377,7 +377,7 @@ Yongseok Choi ⎯ Portfolio
 <b># 개발 정보</b>
 <ul>
     <li>개발언어: Swift</li>
-    <li>개발스택: UIKit, Storyboard, AutoLayout, Realm, Alamofire, RESTful API, Remote Push</li>
+    <li>개발스택: UIKit, AutoLayout, Storyboard, Realm, Alamofire, RESTful API, Remote Push</li>
     <li>소스관리: SVN</li>
 </ul>
 
@@ -413,7 +413,7 @@ Yongseok Choi ⎯ Portfolio
 <b># 개발 정보</b>
 <ul>
     <li>개발언어: Swift</li>
-    <li>개발스택: UIKit, Storyboard, AutoLayout, Realm, Alamofire, RESTful API, Remote Push</li>
+    <li>개발스택: UIKit, AutoLayout, Storyboard, Realm, Alamofire, RESTful API, Remote Push</li>
     <li>소스관리: SVN</li>
 </ul>
 
@@ -443,7 +443,7 @@ Yongseok Choi ⎯ Portfolio
 <b># 개발 정보</b>
 <ul>
     <li>개발언어: Swift</li>
-    <li>개발스택: UIKit, Storyboard, AutoLayout, Realm, Alamofire, RESTful API, Remote Push</li>
+    <li>개발스택: UIKit, AutoLayout, Storyboard, Realm, Alamofire, RESTful API, Remote Push</li>
     <li>소스관리: SVN</li>
 </ul>
 
