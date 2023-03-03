@@ -173,3 +173,13 @@
     <li>경력 관리를 할 수 있습니다.</li>
     <li>퇴직 처리를 할 수 있습니다.</li>
 </ol><br />
+<p class="clyksb_zipga_subSubTitle">
+    - 근무 내역
+    <img src="./img/app_menu_workRecord.png" />
+    # 뷰 설명
+</p>
+<ol class="clyksb_zipga_list">
+    <li>어제까지 근무 내역을 확인할 수 있어요. 추가할 수 있고 지울 수도 있어요.</li>
+    <li>상단 + 버튼을 누르면 입사일부터 어제까지 근무를 추가할 수 있는데 기존 근무 내역은 수정할 수도 있어요.</li>
+    <li>선택된 날짜에 대한 일정을 추가 수정 그리고 삭제할 수 있어요.</li>
+</ol><br />
