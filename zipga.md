@@ -272,6 +272,15 @@
     <img src="./img/app_setting_annualPaidHolidays.png" />
     # 뷰 설명
 </p>
-<ol class="clyksb_zipga_list">
+<ul class="clyksb_zipga_list">
     <li>총 연차 일수와 휴가 기준을 설정할 수 있어요. 휴가 기준은 1년의 시작을 어떻게 볼 것인가인데 회계연도는 1월 1일부터 1년을 본다는 것이고 입사 날짜는 말 그대로 입사 날짜 부터 1년을 본다는 거예요.</li>
+</ul><br />
+<p class="clyksb_zipga_subSubTitle">
+    - 휴무일
+    <img src="./img/app_setting_holidays.png" />
+    # 뷰 설명
+</p>
+<ol class="clyksb_zipga_list">
+    <li>정기 휴일을 지정할 수 있어요. 보통 토요일과 일요일이 정기 휴일이죠.</li>
+    <li>대한민국 공휴일을 휴무일로 사용할 수 있어요. 대한민국 공휴일이 휴무일이 되면 휴가 일정에서 아예 배제돼요. 공휴일을 휴가로 지정할 필요는 없으니까요. 또한 당연히 메인 화면에서 대한민국 공휴일은 휴일로 나타나게 되죠.</li>
 </ol><br />
