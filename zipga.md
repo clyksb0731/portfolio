@@ -267,3 +267,11 @@
     <li>해당 위치를 지도에서 볼 수 있어요.</li>
     <li>지도를 길게 눌러서 해당 위치를 선택할 수 있어요.</li>
 </ol><br />
+<p class="clyksb_zipga_subSubTitle">
+    - 연차 휴가
+    <img src="./img/app_setting_annualPaidHolidays.png" />
+    # 뷰 설명
+</p>
+<ol class="clyksb_zipga_list">
+    <li>총 연차 일수와 휴가 기준을 설정할 수 있어요. 휴가 기준은 1년의 시작을 어떻게 볼 것인가인데 회계연도는 1월 1일부터 1년을 본다는 것이고 입사 날짜는 말 그대로 입사 날짜 부터 1년을 본다는 거예요.</li>
+</ol><br />
