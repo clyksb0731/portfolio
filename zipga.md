@@ -183,3 +183,11 @@
     <li>상단 + 버튼을 누르면 입사일부터 어제까지 근무를 추가할 수 있는데 기존 근무 내역은 수정할 수도 있어요.</li>
     <li>선택된 날짜에 대한 일정을 추가 수정 그리고 삭제할 수 있어요.</li>
 </ol><br />
+<p class="clyksb_zipga_subSubTitle">
+    - 근무 통계
+    <img src="./img/app_menu_workStatistics.png" />
+    # 뷰 설명
+</p>
+<ul class="clyksb_zipga_list">
+    <li>근무 통계는 어제까지 근무 내역에 대한 통계입니다. 주/월/년에 대한 근무 시간 통계를 확인 할 수 있어요.</li>
+</ul><br />
