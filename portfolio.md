@@ -489,7 +489,7 @@ Yongseok Choi ⎯ Portfolio
 <ul style="list-style:none">
     <li>
         <a href="https://clyksb0731.github.io/portfolio/zipga">
-            <b>자세한 앱 설명 보기 〉〉</b>
+            <b>자세한 앱 설명 보기..</b>
         </a>
     </li>
 </ul><br />
