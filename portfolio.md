@@ -55,7 +55,7 @@ title: 최용석
             align-items : center;
             box-sizing:border-box;
             float:left;
-            width:65%;
+            width:50%;
             border-right:4px solid gray;
             border-bottom:0px;
             padding:16px;
@@ -64,7 +64,7 @@ title: 최용석
         #clyksb_portfolio_career {
             box-sizing:border-box;
             float:right;
-            width:35%;
+            width:50%;
             padding:16px;
         }
 
