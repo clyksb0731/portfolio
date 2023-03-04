@@ -46,6 +46,9 @@
         }
 
         #clyksb_portfolio_profile {
+            display : flex;
+            justify-content: center;
+            align-items : center;
             box-sizing:border-box;
             float:left;
             width:65%;
@@ -91,16 +94,18 @@ Yongseok Choi ⎯ Portfolio
 <br />
 <div id="clyksb_portfolio_profileCareer">
     <div id="clyksb_portfolio_profile">
-        <p style="text-align:center">
-            <img src="./img/in_europe.png" style="width:50%" />
-        </p>
-        <p style="text-align:center;font-size:0.9em">
-            exciting Swift, excited iOS developer.
-        </p>
-        <p style="text-align:center;font-size:1.2em">
-            커리어 전환을 통해 끝내 꿈을 이루어<br>
-            신나게 개발하고 있는 iOS 앱 개발자 <b>최용석</b>입니다.
-        </p>
+        <div>
+            <p style="text-align:center">
+                <img src="./img/in_europe.png" style="width:50%" />
+            </p>
+            <p style="text-align:center;font-size:0.9em">
+                exciting Swift, excited iOS developer.
+            </p>
+            <p style="text-align:center;font-size:1.2em">
+                커리어 전환을 통해 끝내 꿈을 이루어<br>
+                신나게 개발하고 있는 iOS 앱 개발자 <b>최용석</b>입니다.
+            </p>
+        </div>
     </div>
     <div id="clyksb_portfolio_career">
         <p class="clyksb_portfolio_careerLink">
