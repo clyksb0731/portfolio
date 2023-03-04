@@ -50,6 +50,8 @@
     }
 </style>
 
+<title>ZipGa</title>
+
 <p id="clyksb_zipga_title">
     집家
     <hr style="height:0.5px" />
