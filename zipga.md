@@ -1,3 +1,7 @@
+---
+title: ZipGa
+---
+
 <style>
     #clyksb_zipga_title {
         text-align:left;
@@ -49,8 +53,6 @@
         }
     }
 </style>
-
-<title>ZipGa</title>
 
 <p id="clyksb_zipga_title">
     집家
