@@ -86,8 +86,8 @@
 
 <hr style="height:0.5px" />
 
+<p class="clyksb_zipga_subTitle">1. 앱 초기 설정</p>
 <p class="clyksb_zipga_subTitle">
-    1. 앱 초기 설정
     <img src="./img/app_initial_setting.png" />
     # 설정 방법
 </p>
@@ -101,9 +101,8 @@
 <p class="clyksb_zipga_subTitle">
     2. 앱 메인
 </p>
-
+<p class="clyksb_zipga_subSubTitle">- 메인 화면</p>
 <p class="clyksb_zipga_subSubTitle">
-    - 초기 화면
     <img src="./img/app_main.png" />
     # 뷰 설명
 </p>
@@ -112,8 +111,9 @@
     <li>휴가 때는 오전 오후 휴가로 정해져요. 물론 반차의 경우도 있는데 밑에서 다룰게요.</li>
     <li>휴일도 마찬가지예요. 기본적으로 오전 오후 모두 휴일로 정해지는데 반나절만 휴일인 경우엔 그렇게 설정할 수 있어요. 그 것 역시 밑에서 다룰게요.</li>
 </ol><br />
+
+<p class="clyksb_zipga_subSubTitle">- 현황 뷰 in 메인 화면</p>
 <p class="clyksb_zipga_subSubTitle">
-    - 현황 뷰 in 메인 화면
     <img src="./img/app_main_normal.png" />
     # 뷰 설명
 </p>
@@ -122,8 +122,9 @@
     <li>두 번째 화면의 현황 뷰는 현재까지 진행된 오늘 근무 시간을 의미하고요.</li>
     <li>그리고 마지막 화면의 현황 뷰는 오늘 총 근무 시간 중 현재까지 진행된 비율을 의미해요.</li>
 </ol><br />
+
+<p class="clyksb_zipga_subSubTitle">- 반차 근무 혹은 반나절 근무</p>
 <p class="clyksb_zipga_subSubTitle">
-    - 반차 근무 혹은 반나절 근무
     <img src="./img/app_main_half.png" />
     # 뷰 설명
 </p>
@@ -134,8 +135,9 @@
     <li>마지막 뷰에선 추가 근무가 설정된 일정을 볼 수 있어요. 추가 근무에 대해선 밑에서 자세히 다룰게요.</li>
     <li style="list-style:none">* 추가로 '오늘 점심시간 무시 스위치'가 있는데 이 스위치를 활성화하면 점심시간동안 근무 시간이 멈추지 않고 형황 뷰에 계산되어 보여져요.</li>
 </ol><br />
+
+<p class="clyksb_zipga_subSubTitle">- 추가 근무</p>
 <p class="clyksb_zipga_subSubTitle">
-    - 추가 근무
     <img src="./img/app_main_overtime.png" />
     # 뷰 설명
 </p>
@@ -145,8 +147,9 @@
     <li>만약 추가 근무가 설정된 상태에서 오전 오후 근무 시간은 지났고 추가 근무 시간이 지나지 않았을 때에는 하단에 나타나는 '지금 업무 종료' 버튼을 눌러 그 시간에 맞춰 추가 근무 시간을 수정하면서 업무를 종료할 수 있어요.</li>
     <li>마지막으로 추가 근무를 추가한 상태에서 그 추가 근무 시간이 지나도록 업무를 종료하지 않으면 하단에 추가 근무 시간을 변경하거나 현재 설정돼있는 일정으로 업무를 종료하는 버튼이 나타나요. 즉시 업무를 종료할 수 있고요. 버튼에 제안된 시간으로 추가 근무 시간을 변경할 수도 있어요.</li>
 </ol><br />
+
+<p class="clyksb_zipga_subSubTitle">- 일정 수정</p>
 <p class="clyksb_zipga_subSubTitle">
-    - 일정 수정
     <img src="./img/app_main_change.png" />
     # 뷰 설명
 </p>
@@ -158,9 +161,8 @@
 <p class="clyksb_zipga_subTitle">
     2. 앱 메뉴
 </p>
-
+<p class="clyksb_zipga_subSubTitle">- 메뉴 화면</p>
 <p class="clyksb_zipga_subSubTitle">
-    - 메뉴 화면
     <img src="./img/app_menu.png" />
     # 뷰 설명
 </p>
@@ -172,8 +174,9 @@
     <li>경력 관리를 할 수 있습니다.</li>
     <li>퇴직 처리를 할 수 있습니다.</li>
 </ol><br />
+
+<p class="clyksb_zipga_subSubTitle">- 근무 내역</p>
 <p class="clyksb_zipga_subSubTitle">
-    - 근무 내역
     <img src="./img/app_menu_workRecord.png" />
     # 뷰 설명
 </p>
@@ -182,16 +185,18 @@
     <li>상단 + 버튼을 누르면 입사일부터 어제까지 근무를 추가할 수 있는데 기존 근무 내역은 수정할 수도 있어요.</li>
     <li>선택된 날짜에 대한 일정을 추가 수정 그리고 삭제할 수 있어요.</li>
 </ol><br />
+
+<p class="clyksb_zipga_subSubTitle">- 근무 통계</p>
 <p class="clyksb_zipga_subSubTitle">
-    - 근무 통계
     <img src="./img/app_menu_workStatistics.png" />
     # 뷰 설명
 </p>
 <ul class="clyksb_zipga_list">
     <li>근무 통계는 어제까지 근무 내역에 대한 통계입니다. 주/월/년에 대한 근무 시간 통계를 확인 할 수 있어요.</li>
 </ul><br />
+
+<p class="clyksb_zipga_subSubTitle">- 휴가 일정</p>
 <p class="clyksb_zipga_subSubTitle">
-    - 휴가 일정
     <img src="./img/app_menu_vacationUsage.png" />
     # 뷰 설명
 </p>
@@ -199,8 +204,9 @@
     <li>휴가를 미리 예약하거나 지나간 휴가를 기록할 수 있어요.</li>
     <li>휴가는 1년 단위로 예약 및 기록 할 수 있는데 총 연차 일수 내에서 가능해요. 총 연차 일수와 1년 시작 기준은 앱 설정에서 변경할 수 있어요.</li>
 </ol><br />
+
+<p class="clyksb_zipga_subSubTitle">- 경력 사항</p>
 <p class="clyksb_zipga_subSubTitle">
-    - 경력 사항
     <img src="./img/app_menu_career.png" />
     # 뷰 설명
 </p>
@@ -209,8 +215,9 @@
     <li>회사 이름과 입사 날짜 그리고 퇴사 날짜를 수정할 수 있어요. 단 현 회사 퇴사 날짜만 빼고요.</li>
     <li>이전 회사를 추가할 수 있는데 입사 날짜 및 퇴사 날짜는 다른 회사와 겹치지 않아야 해요.</li>
 </ol><br />
+
+<p class="clyksb_zipga_subSubTitle">- 퇴직 처리</p>
 <p class="clyksb_zipga_subSubTitle">
-    - 퇴직 처리
     <img src="./img/app_menu_leavingDate.png" />
     # 뷰 설명
 </p>
@@ -224,9 +231,8 @@
 <p class="clyksb_zipga_subTitle">
     3. 앱 설정
 </p>
-
+<p class="clyksb_zipga_subSubTitle">- 설정 화면</p>
 <p class="clyksb_zipga_subSubTitle">
-    - 설정 화면
     <img src="./img/app_setting.png" />
     # 뷰 설명
 </p>
@@ -237,8 +243,9 @@
     <li>연차 휴가 일수 및 연차휴가 기준을 정할 수 있어요.</li>
     <li>휴무일을 설정할 수 있어요.</li>
 </ol><br />
+
+<p class="clyksb_zipga_subSubTitle">- 알림 설정</p>
 <p class="clyksb_zipga_subSubTitle">
-    - 알림 설정
     <img src="./img/app_setting_push.png" />
     # 뷰 설명
 </p>
@@ -247,8 +254,9 @@
     <li>업무시간이 끝났을 때 혹은 일정 시간 전에 업무 종료에 대해 알림을 받을 수 있어요. 업무가 끝나기 30분전부터 업무가 끝나는 그 시간 정각까지 총 네 번의 알림을 받을 수 있죠.</li>
     <li>근무지 근처에 가면 알림을 받을 수 있어요. 그 날의 일정을 확인하고 조정하라는 취지죠. 근처에 가면 받는 알림이기 때문에 잠시 외출 후에 돌아올 때도 다시 받을 수 있다는 점은 잊지 마세요.</li>
 </ol><br />
+
+<p class="clyksb_zipga_subSubTitle">- 근무 형태</p>
 <p class="clyksb_zipga_subSubTitle">
-    - 근무 형태
     <img src="./img/app_setting_workType.png" />
     # 뷰 설명
 </p>
@@ -256,8 +264,9 @@
     <li>근무 형태로 시차출퇴근형을 선택한다면 출근시간과 늦은 출근 시간을 오전 오후 출근에 대해 설정할 수 있고 점심시간을 설정할 수 있어요. '반차 시 점심시간 무시' 설정은 메인 화면의 '오늘 점심시간 무시' 설정값이 돼요.</li>
     <li>근무 형태로 일반형을 선택한다면 오전 오후 출근시간을 고정으로 설정하게 돼요. 이 근무 형태는 출근시간을 따로 설정할 필요가 없어서 앱을 실행한 후 메인 화면 현황 뷰에서 바로 진행 상황을 확인 할 수 있죠. 이 근무 형태 역시 점심시간을 설정할 수 있어요.</li>
 </ol><br />
+
+<p class="clyksb_zipga_subSubTitle">- 근무지 설정</p>
 <p class="clyksb_zipga_subSubTitle">
-    - 근무지 설정
     <img src="./img/app_setting_companyLocation.png" />
     # 뷰 설명
 </p>
@@ -266,16 +275,18 @@
     <li>해당 위치를 지도에서 볼 수 있어요.</li>
     <li>지도를 길게 눌러서 해당 위치를 선택할 수 있어요.</li>
 </ol><br />
+
+<p class="clyksb_zipga_subSubTitle">- 연차 휴가</p>
 <p class="clyksb_zipga_subSubTitle">
-    - 연차 휴가
     <img src="./img/app_setting_annualPaidHolidays.png" />
     # 뷰 설명
 </p>
 <ul class="clyksb_zipga_list">
     <li>총 연차 일수와 휴가 기준을 설정할 수 있어요. 휴가 기준은 1년의 시작을 어떻게 볼 것인가인데 회계연도는 1월 1일부터 1년을 본다는 것이고 입사 날짜는 말 그대로 입사 날짜 부터 1년을 본다는 거예요.</li>
 </ul><br />
+
+<p class="clyksb_zipga_subSubTitle">- 휴무일</p>
 <p class="clyksb_zipga_subSubTitle">
-    - 휴무일
     <img src="./img/app_setting_holidays.png" />
     # 뷰 설명
 </p>
