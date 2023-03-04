@@ -102,7 +102,7 @@ Yongseok Choi ⎯ Portfolio
                 exciting Swift, excited iOS developer.
             </p>
             <p style="text-align:center;font-size:1.2em">
-                커리어 전환을 통해 끝내 개발자란 꿈을 이루고<br />
+                커리어 전환을 통해 끝내 개발자가 되어<br />
                 신명나게 개발하고 있는<br />
                 iOS 앱 개발자 <b>최용석</b>입니다.
             </p>
