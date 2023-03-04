@@ -40,7 +40,7 @@
         font-weight:bold;
     }
 
-    @media (min-width:480px) {
+    @media (min-width:560px) {
         #clyksb_portfolio_profileCareer {
             display:flex;
         }
@@ -48,7 +48,7 @@
         #clyksb_portfolio_profile {
             box-sizing:border-box;
             float:left;
-            width:50%;
+            width:65%;
             border-right:4px solid gray;
             border-bottom:0px;
             padding:16px;
@@ -57,7 +57,7 @@
         #clyksb_portfolio_career {
             box-sizing:border-box;
             float:right;
-            width:50%;
+            width:35%;
             padding:16px;
         }
 
@@ -114,8 +114,8 @@ Yongseok Choi ⎯ Portfolio
                     <li>3. 응급전원협진망</li>
                     <li>4. In-House 배포 앱
                         <ul style="list-style:none;padding-left:16px">
-                        <li>1)Smart TBM (포스코)</li>
-                        <li>2)조끼 매니저 (포스코)</li>
+                        <li>A. Smart TBM (포스코)</li>
+                        <li>B. 조끼 매니저 (포스코)</li>
                         </ul>
                     </li>
                 </ul>
