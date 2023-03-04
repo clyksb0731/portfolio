@@ -1,3 +1,7 @@
+---
+title: 최용석
+---
+
 <style>
     #clyksb_portfolio_profileCareer {
         width:auto;
