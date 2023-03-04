@@ -512,7 +512,7 @@ Yongseok Choi ⎯ Portfolio
 </ul>
 
 <div style="float:right">
-    <a href="https://github.com/clyksb0731/TimeToGoHome">
+    <a href="https://youtu.be/qG2-TaafbAA">
         <img src="./img/youtube_icon.png" height="60" alt="Youtube" style="padding-right:8px" />
     </a>
     <a href="https://github.com/clyksb0731/TimeToGoHome">
