@@ -446,7 +446,6 @@ Yongseok Choi ⎯ Portfolio
     <li>계정 잠금</li>
     <li>실시간 로그아웃​</li>
     <li>이용 내역 관리</li>
-    <li>소스관리: SVN</li>
     <li><u style="color:red"><i>현재 앱이 정상 동작하지 않음</i></u></li>
 </ul>
 
@@ -499,7 +498,7 @@ Yongseok Choi ⎯ Portfolio
 <ul style="list-style:none">
     <li>
         <a href="https://clyksb0731.github.io/portfolio/zipga">
-            <b>자세한 앱 설명 보기..</b>
+            <b>앱 설명 더보기..</b>
         </a>
     </li>
 </ul><br />
