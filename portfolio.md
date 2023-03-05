@@ -248,7 +248,7 @@ Yongseok Choi ⎯ Portfolio
 <b># 개발 정보</b>
 <ul>
     <li>개발언어: Objective-C</li>
-    <li>개발스택: UIKit, AutoLayout, Storyboard, AFNetworking, RESTful API, CallKit, PushKit, Remote Push</li>
+    <li>개발스택: UIKit, AutoLayout, Storyboard, CallKit, PushKit, Remote Push, AFNetworking, RESTful API</li>
     <li>소스관리: Git, Bitbucket</li>
 </ul> 
 
