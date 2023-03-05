@@ -125,7 +125,7 @@ Yongseok Choi ⎯ Portfolio
                     <li>4. In-House 배포 앱
                         <ul style="list-style:none;padding-left:16px">
                         <li>A. Smart TBM (포스코)</li>
-                        <li>B. 스마트 조끼 매니저 앱 (포스코)</li>
+                        <li>B. 조끼 매니저 앱 (포스코)</li>
                         </ul>
                     </li>
                 </ul>
@@ -332,7 +332,7 @@ Yongseok Choi ⎯ Portfolio
 </ul>
 
 <p style = "text-align:left;font-size:1.1em;font-weight:bold">
-    B. 스마트 조끼 매니저 앱 (포스코)
+    B. 조끼 매니저 앱 (포스코)
 </p>
 <h4 style="color:red"><i>* 사내 배포 앱으로 공개된 이미지가 없습니다.</i></h4>
 <blockquote>
