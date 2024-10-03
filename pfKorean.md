@@ -117,11 +117,16 @@ Yongseok Choi ⎯ Portfolio
             <a href="#careers">Careers</a><br>
         </p>
         <ul>
-            <li><b>2019. 10 ~ 재직 중</b> | 비앤피이노베이션
+            <li><b>2023. 4 ~ 2024. 2</b> | 오썸피아
                 <ul style="list-style:none;padding-left:0px;padding-bottom:16px">
-                    <li>1. SmartSee Cloud</li>
-                    <li>2. 스마트 의료지도</li>
-                    <li>3. 응급전원협진망</li>
+                    <li>1. Metalive</li>
+                </ul>
+            </li>
+            <li><b>2019. 10 ~ 2023. 3</b> | 비앤피이노베이션
+                <ul style="list-style:none;padding-left:0px;padding-bottom:16px">
+                    <li>1. 스마트 의료지도</li>
+                    <li>2. 응급전원협진망</li>
+                    <li>3. SmartSee Cloud</li>
                     <li>4. In-House 배포 앱
                         <ul style="list-style:none;padding-left:16px">
                         <li>A. Smart TBM (포스코)</li>
@@ -152,7 +157,7 @@ Yongseok Choi ⎯ Portfolio
     기술 스택
 </p>
 
-<code>Swift</code> <code>Objective-C</code> <code>UIKit</code> <code>Storyboard</code> <code>AutoLayout</code> <code>Realm</code> <code>CallKit</code> <code>PushKit</code> <code>Remote Push</code> <code>Alamofire</code> <code>AFNetworking</code> <code>Charts</code> <code>RESTFult API</code> <code>iBeacon</code> <code>BLE</code> <code>Rabbit MQ</code> <code>Git</code> <code>Github</code> <code>Bitbucket</code>
+<code>Swift</code> <code>Objective-C</code> <code>UIKit</code> <code>Storyboard</code> <code>AutoLayout</code> <code>Realm</code> <code>CallKit</code> <code>PushKit</code> <code>Remote Push</code> <code>Alamofire</code> <code>AFNetworking</code> <code>RESTFult API</code> <code>Charts</code> <code>Kingfisher</code> <code>iBeacon</code> <code>BLE</code> <code>Rabbit MQ</code> <code>Git</code> <code>Github</code> <code>Bitbucket</code>
 
 <p class="clyksb_portfolio_subSubTitle">
     Contact
@@ -161,7 +166,6 @@ Yongseok Choi ⎯ Portfolio
 <blockquote>
     <p>
         GitHub: https://github.com/clyksb0731<br />
-        Mobile: 010-4207-3122<br />
         E-mail: clyksb0731@gmail.com
     </p>
 </blockquote>
@@ -172,44 +176,45 @@ Yongseok Choi ⎯ Portfolio
     <a id="careers">- Careers</a>
 </p>
 
+<p class="clyksb_portfolio_subTitle">
+    2023. 4 ~ 2024. 2<br />
+    @ 오썸피아&nbsp; |&nbsp; iOS 앱 개발
+</p>
+
 <p class="clyksb_portfolio_subSubTitle">
-    2019. 10 ~ 재직 중<br />
-    @ 비앤피이노베이션&nbsp; |&nbsp; iOS 앱 개발
-<p class="clyksb_portfolio_subSubTitle">
-    1. SmartSee Cloud<br />
-    <img src="./img/smartsee_cloud_screenshot.png" />
-</p>  
+    1. Metalive<br />
+    <img src="./img/metalive_screenshot.png" />
+</p>
 
 <blockquote>
     <p>
-        SMARTSEE CLOUD는 중대재해처벌법 대응을 위한 기업의 안전조치 강화 솔루션으로 산업재해 없는 안전한 사회 구현을 목표로 합니다.<br />
-        현장 근로자의 셀프 안전수칙 준수관리, 위험 알림, 구조요청등 다양한 최신 기술을 적용하여 CCTV 모니터링에 의존하던 기존 산업 안전 모니터링의 한계점을 개선한 산업안전 통합 관리 플랫폼입니다.
+        맞춤형 여행경로, 가상여행 설계, 추천관광지 소개
     </p>
 </blockquote>
 
 <b># 앱 아이콘</b>
 <p style="padding-left:16px">
-    <img src="./img/smartsee_cloud_icon.png" height="60" alt="App Icon" />
-</p>  
+    <img src="./img/metalive_icon.png" height="60" alt="App Icon" />
+</p> 
 
 <b># 앱 설명</b>
 <ul>
-    <li>비대면 원격 현장 지원 (영상 통화)</li>
-    <li>현장 영상 저장 관리</li>
-    <li>작업자 위험 감지 및 구조요청</li>
-    <li>위치 정보 및 구역별 안전수칙 관리</li>
+    <li>메타버스 월드</li>
+    <li>나만의 여행 경로</li>
+    <li>취향저격 여행 코스들</li>
+    <li>유명 관광지에 대한 다양한 정보</li>
     <li>App Store 배포</li>
 </ul> 
 
 <b># 개발 정보</b>
 <ul>
-    <li>개발언어: Objective-C</li>
-    <li>개발스택: UIKit, AutoLayout, Storyboard, CallKit, PushKit, Remote Push, AFNetworking, RESTful API, iBeacon, Rabbit MQ</li>
-    <li>소스관리: Git, Bitbucket</li>
-</ul>
+    <li>개발언어: Swift</li>
+    <li>개발스택: UIKit, AutoLayout, Storyboard, Remote Push, Alamofire, RESTful API, Kingfisher</li>
+    <li>소스관리: Git, Github</li>
+</ul> 
 
 <div style="float:right">
-    <a href="https://apps.apple.com/kr/app/smartsee-cloud/id1368906221">
+    <a href="https://apps.apple.com/kr/app/%EB%A9%94%ED%83%80%EB%9D%BC%EC%9D%B4%EB%B8%8C/id1661587399">
         <img src="./img/appStore.png" height="60" alt="App Store" />
     </a>
 </div>
@@ -217,8 +222,13 @@ Yongseok Choi ⎯ Portfolio
 
 <hr style="height:0.5px" />
 
+<p class="clyksb_portfolio_subTitle">
+    2019. 10 ~ 2023. 3<br />
+    @ 비앤피이노베이션&nbsp; |&nbsp; iOS 앱 개발
+</p>
+
 <p class="clyksb_portfolio_subSubTitle">
-    2. 스마트 의료지도<br />
+    1. 스마트 의료지도<br />
     <img src="./img/sals_screenshot.png" />
 </p>
 
@@ -262,7 +272,7 @@ Yongseok Choi ⎯ Portfolio
 <hr style="height:0.5px" />
 
 <p class="clyksb_portfolio_subSubTitle">
-    3. 응급전원협진망<br />
+    2. 응급전원협진망<br />
     <img src="./img/recs_screenshot.png" />
 </p>
 
@@ -298,6 +308,48 @@ Yongseok Choi ⎯ Portfolio
 <div style="float:right">
     <a href="https://apps.apple.com/kr/app/응급전원협진망/id6444118880">
         <img src="./img/appStore.png" height="60" alt="App Store" />
+    </a>
+</div>
+<br /><br />
+
+<hr style="height:0.5px" />
+
+<p class="clyksb_portfolio_subSubTitle">
+    3. SmartSee Cloud<br />
+    <img src="./img/smartsee_cloud_screenshot.png" />
+</p>  
+
+<blockquote>
+    <p>
+        SMARTSEE CLOUD는 중대재해처벌법 대응을 위한 기업의 안전조치 강화 솔루션으로 산업재해 없는 안전한 사회 구현을 목표로 합니다.<br />
+        현장 근로자의 셀프 안전수칙 준수관리, 위험 알림, 구조요청등 다양한 최신 기술을 적용하여 CCTV 모니터링에 의존하던 기존 산업 안전 모니터링의 한계점을 개선한 산업안전 통합 관리 플랫폼입니다.
+    </p>
+</blockquote>
+
+<b># 앱 아이콘</b>
+<p style="padding-left:16px">
+    <img src="./img/smartsee_cloud_icon.png" height="60" alt="App Icon" />
+</p>  
+
+<b># 앱 설명</b>
+<ul>
+    <li>비대면 원격 현장 지원 (영상 통화)</li>
+    <li>현장 영상 저장 관리</li>
+    <li>작업자 위험 감지 및 구조요청</li>
+    <li>위치 정보 및 구역별 안전수칙 관리</li>
+    <li>App Store 배포</li>
+</ul> 
+
+<b># 개발 정보</b>
+<ul>
+    <li>개발언어: Objective-C</li>
+    <li>개발스택: UIKit, AutoLayout, Storyboard, CallKit, PushKit, Remote Push, AFNetworking, RESTful API, iBeacon, Rabbit MQ</li>
+    <li>소스관리: Git, Bitbucket</li>
+</ul>
+
+<div style="float:right">
+    <a href="https://apps.apple.com/kr/app/smartsee-cloud/id1368906221">
+        <img src="./img/appStore_removed.png" height="60" alt="App Store" />
     </a>
 </div>
 <br /><br />
@@ -355,7 +407,7 @@ Yongseok Choi ⎯ Portfolio
 
 <hr />
 
-<p class="clyksb_portfolio_subSubTitle">
+<p class="clyksb_portfolio_subTitle">
     2018. 10 ~ 2019. 9<br />
     @ 와임&nbsp; |&nbsp; iOS 앱 개발
 </p>
@@ -393,7 +445,7 @@ Yongseok Choi ⎯ Portfolio
 
 <div style="float:right">
     <a href="https://apps.apple.com/kr/app/medna-record/id1455576358">
-        <img src="./img/appStore.png" height="60" alt="App Store" />
+        <img src="./img/appStore_removed.png" height="60" alt="App Store" />
     </a>
 </div>
 <br /><br />

@@ -174,9 +174,11 @@ Yongseok Choi ⎯ Portfolio
     <a id="careers">- Careers</a>
 </p>
 
-<p class="clyksb_portfolio_subSubTitle">
+<p class="clyksb_portfolio_subTitle">
     Apr. 2023 ~ Feb. 2024<br />
     @ Awesomepia: Seoul&nbsp; |&nbsp; iOS App Developer
+</p>
+
 <p class="clyksb_portfolio_subSubTitle">
     1. Metalive<br />
     <img src="./img/metalive_screenshot.png" />
@@ -209,9 +211,11 @@ Yongseok Choi ⎯ Portfolio
 
 <hr style="height:0.5px" />
 
-<p class="clyksb_portfolio_subSubTitle">
+<p class="clyksb_portfolio_subTitle">
     Oct. 2019 ~ Mar. 2023<br />
     @ BNP Innovation: Seoul&nbsp; |&nbsp; iOS App Developer
+</p>
+
 <p class="clyksb_portfolio_subSubTitle">
     1. Smart Advanced Life Support<br />
     <img src="./img/sals_screenshot.png" />
@@ -344,7 +348,7 @@ Yongseok Choi ⎯ Portfolio
 
 <hr />
 
-<p class="clyksb_portfolio_subSubTitle">
+<p class="clyksb_portfolio_subTitle">
     Oct. 2018 ~ Sep. 2019<br />
     @ WAEM: Seoul&nbsp; |&nbsp; iOS App Developer
 </p>
