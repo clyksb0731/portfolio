@@ -92,10 +92,18 @@ title: Yongseok Choi
     }
 </style>
 
+<div style="float:right">
+    <a href="https://clyksb0731.github.io/portfolio/pfKorean">
+        <img src="./img/korean_button.png" height="20" alt="Korean" />
+    </a>
+</div>
+<br/>
+
 <p id="clyksb_portfolio_title">
 Yongseok Choi ⎯ Portfolio
 </p>
 <br />
+
 <div id="clyksb_portfolio_profileCareer">
     <div id="clyksb_portfolio_profile">
         <div>
