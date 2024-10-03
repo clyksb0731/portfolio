@@ -201,7 +201,7 @@ Yongseok Choi ⎯ Portfolio
 </ul> 
 
 <div style="float:right">
-    <a href="https://apps.apple.com/kr/app/%EC%8A%A4%EB%A7%88%ED%8A%B8%EC%9D%98%EB%A3%8C%EC%A7%80%EB%8F%84/id6444113206">
+    <a href="https://apps.apple.com/kr/app/%EB%A9%94%ED%83%80%EB%9D%BC%EC%9D%B4%EB%B8%8C/id1661587399">
         <img src="./img/appStore.png" height="60" alt="App Store" />
     </a>
 </div>
@@ -319,7 +319,6 @@ Yongseok Choi ⎯ Portfolio
 <blockquote>
     TBM(Tool Box Meeting): An activity in which employees discover potential risk factors related to work content and equipment in advance and implement safety measures before starting work, with the goal of creating a safe work environment
 </blockquote>
-<br />
 
 <b># Development Info.</b>
 <ul>
@@ -335,7 +334,6 @@ Yongseok Choi ⎯ Portfolio
 <blockquote>
     This is an app that communicates with a smart safety jacket based on the Android system via BLE. By connecting to a smart safety jacket, you can change the jacket operation settings, such as selecting a communication method and changing the video quality  
 </blockquote>
-<br />
 
 <b># Development Info</b>
 <ul>
@@ -502,8 +500,7 @@ Yongseok Choi ⎯ Portfolio
 
 <b># Description</b>
 <ul>
-    <li>A small version of MyRealTrip(Travel brokerage services)</li>
-    <li>A team project refering to <a href="https://www.myrealtrip.com">MyRealTrip</a> in Fast Campus</li>
+    A team project refering to <a href="https://www.myrealtrip.com">MyRealTrip</a> in Fast Campus
 </ul>
 
 <b># Development Info.</b>
