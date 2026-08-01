@@ -120,6 +120,13 @@ Yongseok Choi ⎯ Portfolio
     </div>
     <div id="clyksb_portfolio_career">
         <p class="clyksb_portfolio_careerLink">
+            <a href="#personal_projects">Personal Projects</a>
+        </p>
+        <ul>
+            <li>Time to Go Home (ZipGa)</li>
+            <li>My Small Trip (Clone Project as a term project)</li>
+        </ul>
+        <p class="clyksb_portfolio_careerLink">
             <a href="#careers">Careers</a><br>
         </p>
         <ul>
@@ -149,13 +156,6 @@ Yongseok Choi ⎯ Portfolio
                 </ul>
             </li>
         </ul>
-        <p class="clyksb_portfolio_careerLink">
-            <a href="#personal_projects">Personal Projects</a>
-        </p>
-        <ul>
-            <li>Time to Go Home (ZipGa)</li>
-            <li>My Small Trip (Clone Project as a term project)</li>
-        </ul>
     </div>
 </div>
 
@@ -175,6 +175,94 @@ Yongseok Choi ⎯ Portfolio
         E-mail: clyksb0731@gmail.com
     </p>
 </blockquote>
+
+<hr />
+
+<p class="clyksb_portfolio_subTitle">
+    <a id="personal_projects">- Personal Projects</a>
+</p>
+
+<p class="clyksb_portfolio_subSubTitle">
+    1. Time to Go Home (ZipGa)<br />
+    <img src="./img/iPhone14Pro.png" />
+</p>
+
+<blockquote>
+    <p>
+        You've worked hard, now it's time to leave work!<br />
+        No more pointless overtime - work focused and leave excited! <br />
+        Forget about quitting time. From now on, 'Time to Go Home' will tell you.
+    </p>
+</blockquote>
+
+<b># App Icon</b>
+<p style="margin-left:16px">
+    <img src="./img/zipga_icon.png" height="60" alt="App Icon" />
+</p>
+
+<b># Description</b>
+<ul>
+    <li>Setting a work schedule lets you know in advance when you'll be leaving work</li>
+    <li>You can record your work history and view work statistics by week/month/year</li>
+    <li>You can manage your vacation schedule and apply Korean public holidays to your schedule</li>
+    <li>You can manage your career</li>
+</ul>
+<ul style="list-style:none">
+    <li>
+        <a href="https://clyksb0731.github.io/portfolio/zipga">
+            <b>More... (Korean)</b>
+        </a>
+    </li>
+</ul><br />
+
+<b># Development Info.</b>
+<ul>
+    <li>Language: Swift</li>
+    <li>Tech Stack: UIKit, AutoLayout, Realm, Alamofire, RESTful API, Charts</li>
+    <li>SCM: Git, Github</li>
+</ul>
+
+<div style="float:right">
+    <a href="https://youtu.be/qG2-TaafbAA">
+        <img src="./img/youtube_icon.png" height="60" alt="Youtube" style="padding-right:8px" />
+    </a>
+    <a href="https://github.com/clyksb0731/TimeToGoHome">
+        <img src="./img/github_icon.png" height="60" alt="GitHub" style="padding-right:8px" />
+    </a>
+    <a href="https://apps.apple.com/kr/app/%EC%A7%91%EA%B0%80/id1546550497">
+        <img src="./img/appStore.png" height="60" alt="App Store" />
+    </a>
+</div>
+<br><br>
+
+<hr style="height:0.5px" />
+
+<p class="clyksb_portfolio_subSubTitle">
+    2. My Smal Trip (A clone project as a term project)<br />
+    <img src="./img/mysmalltrip.png" style="width:70%" />
+</p>
+
+<b># Description</b>
+<ul>
+    A team project refering to <a href="https://www.myrealtrip.com">MyRealTrip</a> in Fast Campus
+</ul>
+
+<b># Development Info.</b>
+<ul>
+    <li>Language: Swift</li>
+    <li>Tech Stack: UIKit, AutoLayout, Alamofire, RESTful API</li>
+    <li>SCM: Git, Github</li>
+</ul>
+
+<div style="display:inline-block;float:right">
+    <a href="https://www.youtube.com/watch?v=xA2IJ0NWzoo&t=8s">
+        <img src="./img/youtube_icon.png" height="60" alt="Youtube" style="padding-right:8px" />
+    </a>
+    <a href="https://github.com/OhTeam/My_Small_Trip">
+        <img src="./img/github_icon.png" height="60" alt="GitHub" style="padding-right:8px" />
+    </a>
+</div>
+<br /><br />
 
 <hr />
 
@@ -212,7 +300,7 @@ Yongseok Choi ⎯ Portfolio
 
 <div style="float:right">
     <a href="https://apps.apple.com/kr/app/%EB%A9%94%ED%83%80%EB%9D%BC%EC%9D%B4%EB%B8%8C/id1661587399">
-        <img src="./img/appStore.png" height="60" alt="App Store" />
+        <img src="./img/appStore_removed.png" height="60" alt="App Store" />
     </a>
 </div>
 <br /><br />
@@ -249,7 +337,7 @@ Yongseok Choi ⎯ Portfolio
 
 <div style="float:right">
     <a href="https://apps.apple.com/kr/app/%EC%8A%A4%EB%A7%88%ED%8A%B8%EC%9D%98%EB%A3%8C%EC%A7%80%EB%8F%84/id6444113206">
-        <img src="./img/appStore.png" height="60" alt="App Store" />
+        <img src="./img/appStore_removed.png" height="60" alt="App Store" />
     </a>
 </div>
 <br /><br />
@@ -281,7 +369,7 @@ Yongseok Choi ⎯ Portfolio
 
 <div style="float:right">
     <a href="https://apps.apple.com/kr/app/%EC%9D%91%EA%B8%89%EC%A0%84%EC%9B%90%ED%98%91%EC%A7%84%EB%A7%9D/id6444118880">
-        <img src="./img/appStore.png" height="60" alt="App Store" />
+        <img src="./img/appStore_removed.png" height="60" alt="App Store" />
     </a>
 </div>
 <br /><br />
@@ -439,95 +527,7 @@ Yongseok Choi ⎯ Portfolio
 
 <div style="float:right">
     <a href="https://apps.apple.com/kr/app/livercert/id1473602130">
-        <img src="./img/appStore.png" height="60" alt="App Store" />
-    </a>
-</div>
-<br /><br />
-
-<hr />
-
-<p class="clyksb_portfolio_subTitle">
-    <a id="personal_projects">- Personal Projects</a>
-</p>
-
-<p class="clyksb_portfolio_subSubTitle">
-    1. Time to Go Home (ZipGa)<br />
-    <img src="./img/iPhone14Pro.png" />
-</p>
-
-<blockquote>
-    <p>
-        You've worked hard, now it's time to leave work!<br />
-        No more pointless overtime - work focused and leave excited! <br />
-        Forget about quitting time. From now on, 'Time to Go Home' will tell you.
-    </p>
-</blockquote>
-
-<b># App Icon</b>
-<p style="margin-left:16px">
-    <img src="./img/zipga_icon.png" height="60" alt="App Icon" />
-</p>
-
-<b># Description</b>
-<ul>
-    <li>Setting a work schedule lets you know in advance when you'll be leaving work</li>
-    <li>You can record your work history and view work statistics by week/month/year</li>
-    <li>You can manage your vacation schedule and apply Korean public holidays to your schedule</li>
-    <li>You can manage your career</li>
-</ul>
-<ul style="list-style:none">
-    <li>
-        <a href="https://clyksb0731.github.io/portfolio/zipga">
-            <b>More... (Korean)</b>
-        </a>
-    </li>
-</ul><br />
-
-<b># Development Info.</b>
-<ul>
-    <li>Language: Swift</li>
-    <li>Tech Stack: UIKit, AutoLayout, Realm, Alamofire, RESTful API, Charts</li>
-    <li>SCM: Git, Github</li>
-</ul>
-
-<div style="float:right">
-    <a href="https://youtu.be/qG2-TaafbAA">
-        <img src="./img/youtube_icon.png" height="60" alt="Youtube" style="padding-right:8px" />
-    </a>
-    <a href="https://github.com/clyksb0731/TimeToGoHome">
-        <img src="./img/github_icon.png" height="60" alt="GitHub" style="padding-right:8px" />
-    </a>
-    <a href="https://apps.apple.com/kr/app/%EC%A7%91%EA%B0%80/id1546550497">
-        <img src="./img/appStore.png" height="60" alt="App Store" />
-    </a>
-</div>
-<br><br>
-
-<hr style="height:0.5px" />
-
-<p class="clyksb_portfolio_subSubTitle">
-    2. My Smal Trip (A clone project as a term project)<br />
-    <img src="./img/mysmalltrip.png" style="width:70%" />
-</p>
-
-<b># Description</b>
-<ul>
-    A team project refering to <a href="https://www.myrealtrip.com">MyRealTrip</a> in Fast Campus
-</ul>
-
-<b># Development Info.</b>
-<ul>
-    <li>Language: Swift</li>
-    <li>Tech Stack: UIKit, AutoLayout, Alamofire, RESTful API</li>
-    <li>SCM: Git, Github</li>
-</ul>
-
-<div style="display:inline-block;float:right">
-    <a href="https://www.youtube.com/watch?v=xA2IJ0NWzoo&t=8s">
-        <img src="./img/youtube_icon.png" height="60" alt="Youtube" style="padding-right:8px" />
-    </a>
-    <a href="https://github.com/OhTeam/My_Small_Trip">
-        <img src="./img/github_icon.png" height="60" alt="GitHub" style="padding-right:8px" />
+        <img src="./img/appStore_removed.png" height="60" alt="App Store" />
     </a>
 </div>
 <br /><br />
