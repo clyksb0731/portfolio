@@ -122,6 +122,13 @@ Yongseok Choi ⎯ Portfolio
     </div>
     <div id="clyksb_portfolio_career">
         <p class="clyksb_portfolio_careerLink">
+            <a href="#personal_projects">Personal Projects</a>
+        </p>
+        <ul>
+            <li>집家 (집가)</li>
+            <li>마이스몰트립</li>
+        </ul>
+        <p class="clyksb_portfolio_careerLink">
             <a href="#careers">Careers</a><br>
         </p>
         <ul>
@@ -151,13 +158,6 @@ Yongseok Choi ⎯ Portfolio
                 </ul>
             </li>
         </ul>
-        <p class="clyksb_portfolio_careerLink">
-            <a href="#personal_projects">Personal Projects</a>
-        </p>
-        <ul>
-            <li>집家 (집가)</li>
-            <li>마이스몰트립</li>
-        </ul>
     </div>
 </div>
 
@@ -177,6 +177,104 @@ Yongseok Choi ⎯ Portfolio
         E-mail: clyksb0731@gmail.com
     </p>
 </blockquote>
+
+<hr />
+
+<p class="clyksb_portfolio_subTitle">
+    <a id="personal_projects">- Personal Projects</a>
+</p>
+
+<p class="clyksb_portfolio_subSubTitle">
+    1. 집家 (집가)<br />
+    <img src="./img/iPhone14Pro.png" />
+</p>
+
+<blockquote>
+    <p>
+        열심히 일한 당신, 이제는 퇴근 할 때!<br />
+        무의미한 업무 연장은 이제 그만! 집중적으로 일하고 신나게 퇴근하자! <br />
+        이제 퇴근시간은 잊어버리세요. 지금부터 '집家'가 알려드립니다.
+    </p>
+</blockquote>
+
+<b># 앱 아이콘</b>
+<p style="margin-left:16px">
+    <img src="./img/zipga_icon.png" height="60" alt="App Icon" />
+</p>
+
+<b># 앱 설명</b>
+<ul>
+    <li>근무 일정을 설정하면 퇴근을 미리미리 알려줍니다.</li>
+    <li>근무 내역을 기록할 수 있고 주/월/년 단위로 근무 통계를 볼 수 있습니다.</li>
+    <li>휴가 일정을 관리할 수 있으며 일정에 대한민국 공휴일을 적용할 수 있습니다.</li>
+    <li>경력도 관리해 줍니다.</li>
+    <li>현재 App Store에 배포되어있습니다.</li>
+</ul>
+<ul style="list-style:none">
+    <li>
+        <a href="https://clyksb0731.github.io/portfolio/zipga">
+            <b>앱 설명 더보기..</b>
+        </a>
+    </li>
+</ul><br />
+
+<b># 개발 정보</b>
+<ul>
+    <li>개발언어: Swift</li>
+    <li>개발스택: UIKit, AutoLayout, Realm, Alamofire, RESTful API, Charts</li>
+    <li>소스관리: Git, Github</li>
+</ul>
+
+<div style="float:right">
+    <a href="https://youtu.be/qG2-TaafbAA">
+        <img src="./img/youtube_icon.png" height="60" alt="Youtube" style="padding-right:8px" />
+    </a>
+    <a href="https://github.com/clyksb0731/TimeToGoHome">
+        <img src="./img/github_icon.png" height="60" alt="GitHub" style="padding-right:8px" />
+    </a>
+    <a href="https://apps.apple.com/kr/app/집가/id1546550497">
+        <img src="./img/appStore.png" height="60" alt="App Store" />
+    </a>
+</div>
+<br><br>
+
+<hr style="height:0.5px" />
+
+<p class="clyksb_portfolio_subSubTitle">
+    2. 마이스몰트립<br />
+    <img src="./img/mysmalltrip.png" style="width:70%" />
+</p>
+
+<blockquote>
+    <p>
+        사진 찍고 오는 여행 No!! 발자국만 찍고 돌고 오는 여행 No!!<br />
+        진정한 여행이란? 현지를 느끼고 오는 것!!!<br />
+        현지 여행의 모든 것을 담은 마이리얼트립의 작은 버전. My Small Trip 입니다.
+    </p>
+</blockquote>
+
+<b># 앱 설명</b>
+<ul>
+    <li>마이리얼트립(현재 여행 중개 서비스)의 Small Version</li>
+    <li>Fast Campus 팀 프로젝트로서 <a href="https://www.myrealtrip.com">마이리얼트립</a>의 리뉴얼 앱입니다.</li>
+</ul>
+
+<b># 개발 정보</b>
+<ul>
+    <li>개발언어: Swift</li>
+    <li>개발스택: UIKit, AutoLayout, Alamofire, RESTful API</li>
+    <li>소스관리: Git, Github</li>
+</ul>
+
+<div style="display:inline-block;float:right">
+    <a href="https://www.youtube.com/watch?v=xA2IJ0NWzoo&t=8s">
+        <img src="./img/youtube_icon.png" height="60" alt="Youtube" style="padding-right:8px" />
+    </a>
+    <a href="https://github.com/OhTeam/My_Small_Trip">
+        <img src="./img/github_icon.png" height="60" alt="GitHub" style="padding-right:8px" />
+    </a>
+</div>
+<br /><br />
 
 <hr />
 
@@ -223,7 +321,7 @@ Yongseok Choi ⎯ Portfolio
 
 <div style="float:right">
     <a href="https://apps.apple.com/kr/app/%EB%A9%94%ED%83%80%EB%9D%BC%EC%9D%B4%EB%B8%8C/id1661587399">
-        <img src="./img/appStore.png" height="60" alt="App Store" />
+        <img src="./img/appStore_removed.png" height="60" alt="App Store" />
     </a>
 </div>
 <br /><br />
@@ -272,7 +370,7 @@ Yongseok Choi ⎯ Portfolio
 
 <div style="float:right">
     <a href="https://apps.apple.com/kr/app/스마트의료지도/id6444113206">
-        <img src="./img/appStore.png" height="60" alt="App Store" />
+        <img src="./img/appStore_removed.png" height="60" alt="App Store" />
     </a>
 </div>
 <br /><br />
@@ -315,7 +413,7 @@ Yongseok Choi ⎯ Portfolio
 
 <div style="float:right">
     <a href="https://apps.apple.com/kr/app/응급전원협진망/id6444118880">
-        <img src="./img/appStore.png" height="60" alt="App Store" />
+        <img src="./img/appStore_removed.png" height="60" alt="App Store" />
     </a>
 </div>
 <br /><br />
@@ -518,105 +616,7 @@ Yongseok Choi ⎯ Portfolio
 
 <div style="float:right">
     <a href="https://apps.apple.com/kr/app/livercert/id1473602130">
-        <img src="./img/appStore.png" height="60" alt="App Store" />
-    </a>
-</div>
-<br /><br />
-
-<hr />
-
-<p class="clyksb_portfolio_subTitle">
-    <a id="personal_projects">- Personal Projects</a>
-</p>
-
-<p class="clyksb_portfolio_subSubTitle">
-    1. 집家 (집가)<br />
-    <img src="./img/iPhone14Pro.png" />
-</p>
-
-<blockquote>
-    <p>
-        열심히 일한 당신, 이제는 퇴근 할 때!<br />
-        무의미한 업무 연장은 이제 그만! 집중적으로 일하고 신나게 퇴근하자! <br />
-        이제 퇴근시간은 잊어버리세요. 지금부터 '집家'가 알려드립니다.
-    </p>
-</blockquote>
-
-<b># 앱 아이콘</b>
-<p style="margin-left:16px">
-    <img src="./img/zipga_icon.png" height="60" alt="App Icon" />
-</p>
-
-<b># 앱 설명</b>
-<ul>
-    <li>근무 일정을 설정하면 퇴근을 미리미리 알려줍니다.</li>
-    <li>근무 내역을 기록할 수 있고 주/월/년 단위로 근무 통계를 볼 수 있습니다.</li>
-    <li>휴가 일정을 관리할 수 있으며 일정에 대한민국 공휴일을 적용할 수 있습니다.</li>
-    <li>경력도 관리해 줍니다.</li>
-    <li>현재 App Store에 배포되어있습니다.</li>
-</ul>
-<ul style="list-style:none">
-    <li>
-        <a href="https://clyksb0731.github.io/portfolio/zipga">
-            <b>앱 설명 더보기..</b>
-        </a>
-    </li>
-</ul><br />
-
-<b># 개발 정보</b>
-<ul>
-    <li>개발언어: Swift</li>
-    <li>개발스택: UIKit, AutoLayout, Realm, Alamofire, RESTful API, Charts</li>
-    <li>소스관리: Git, Github</li>
-</ul>
-
-<div style="float:right">
-    <a href="https://youtu.be/qG2-TaafbAA">
-        <img src="./img/youtube_icon.png" height="60" alt="Youtube" style="padding-right:8px" />
-    </a>
-    <a href="https://github.com/clyksb0731/TimeToGoHome">
-        <img src="./img/github_icon.png" height="60" alt="GitHub" style="padding-right:8px" />
-    </a>
-    <a href="https://apps.apple.com/kr/app/집가/id1546550497">
-        <img src="./img/appStore.png" height="60" alt="App Store" />
-    </a>
-</div>
-<br><br>
-
-<hr style="height:0.5px" />
-
-<p class="clyksb_portfolio_subSubTitle">
-    2. 마이스몰트립<br />
-    <img src="./img/mysmalltrip.png" style="width:70%" />
-</p>
-
-<blockquote>
-    <p>
-        사진 찍고 오는 여행 No!! 발자국만 찍고 돌고 오는 여행 No!!<br />
-        진정한 여행이란? 현지를 느끼고 오는 것!!!<br />
-        현지 여행의 모든 것을 담은 마이리얼트립의 작은 버전. My Small Trip 입니다.
-    </p>
-</blockquote>
-
-<b># 앱 설명</b>
-<ul>
-    <li>마이리얼트립(현재 여행 중개 서비스)의 Small Version</li>
-    <li>Fast Campus 팀 프로젝트로서 <a href="https://www.myrealtrip.com">마이리얼트립</a>의 리뉴얼 앱입니다.</li>
-</ul>
-
-<b># 개발 정보</b>
-<ul>
-    <li>개발언어: Swift</li>
-    <li>개발스택: UIKit, AutoLayout, Alamofire, RESTful API</li>
-    <li>소스관리: Git, Github</li>
-</ul>
-
-<div style="display:inline-block;float:right">
-    <a href="https://www.youtube.com/watch?v=xA2IJ0NWzoo&t=8s">
-        <img src="./img/youtube_icon.png" height="60" alt="Youtube" style="padding-right:8px" />
-    </a>
-    <a href="https://github.com/OhTeam/My_Small_Trip">
-        <img src="./img/github_icon.png" height="60" alt="GitHub" style="padding-right:8px" />
+        <img src="./img/appStore_removed.png" height="60" alt="App Store" />
     </a>
 </div>
 <br /><br />
